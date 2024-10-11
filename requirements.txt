@@ -1,8 +1,2 @@
-validators
-langchain
-langchain_groq
-langchain_core
-langchain_community
-pytube
-youtube_transcript_api
-unstructured
+streamlit
+pil
